@@ -1,12 +1,12 @@
-## Hi there 👋
+# VLDB Lab
 
-<!--
+Welcome to VLDB Lab Organization on Github 👋
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Main Publications
+|#|Publication Title| Conference | Github Link | Publication Link | 
+|------|---|---|---|---|
+|1|NV-SQL: Boosting OLTP Performance with Non-Volatile DIMMs|VLDB 2023|[Github Link](https://github.com/FlashSQL/mysql-nvdimm-caching)|[Publication Link](https://dl.acm.org/doi/10.14778/3583140.3583159)|
+|2|Your Read is Our Priority in Flash Storage|VLDB 2022|[Github Link](https://github.com/FlashSQL/rw-rbuf)|[Publication Link](https://dl.acm.org/doi/10.14778/3538598.3538612)|
+|3|Avoiding Read Stalls on Flash Storage|SIGMOD 2022|[Github Link](https://github.com/FlashSQL/write-after-read-protocol)| [Publication Link](https://dl.acm.org/doi/abs/10.1145/3514221.3526126)|
+|4|2r: Efficiently Isolating Cold Pages in Flash Storage|VLDB 2020|-|[Publication Link](https://vldb.org/pvldb/vol13/p2004-kang.pdf)|
+|5|SHARE Interface in Flash Storage for Databases|SIGMOD 2016|[Github Link](https://github.com/FlashSQL/shareSQL)|[Publication Link](https://dl.acm.org/doi/10.1145/2882903.2882910)|
