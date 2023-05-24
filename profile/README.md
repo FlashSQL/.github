@@ -1,6 +1,6 @@
 # VLDB Lab
 
-Welcome to VLDB Lab Organization on Github 👋
+Welcome to VLDB Lab's Organization on Github 👋
 
 ### Main Publications
 |#|Publication Title| Conference | Github Link | Publication Link | 
