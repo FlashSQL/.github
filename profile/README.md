@@ -5,7 +5,7 @@ Welcome to VLDB Lab's Organization on Github 👋
 ### Main Publications
 |#|Publication Title| Conference | Github Link | Publication Link | 
 |------|---|---|---|---|
-|1]Boosting OLTP Performance with Per-Page Logging on NVDIMM|SIGMOD 2025|[Github Link](https://github.com/JonghyeokPark/mysql-57-nvdimm-ppl)|[Publication Link](https://dl.acm.org/doi/abs/10.1145/3709667)|
+|1|Boosting OLTP Performance with Per-Page Logging on NVDIMM|SIGMOD 2025|[Github Link](https://github.com/JonghyeokPark/mysql-57-nvdimm-ppl)|[Publication Link](https://dl.acm.org/doi/abs/10.1145/3709667)|
 |2|FlashAlloc: Dedicating Flash Blocks By Objects|VLDB 2023|[Github Link](https://github.com/JonghyeokPark/Flashalloc-Cosmos)|[Publication Link](https://dl.acm.org/doi/pdf/10.14778/3611479.3611524)|
 |3|LRU-C: Parallelizing Database I/Os for Flash SSDs|VLDB 2023|[Github Link](https://github.com/FlashSQL/LRU-C)|[Publication Link](https://www.vldb.org/pvldb/vol16/p2364-lee.pdf)|
 |4|NV-SQL: Boosting OLTP Performance with Non-Volatile DIMMs|VLDB 2023|[Github Link](https://github.com/FlashSQL/mysql-nvdimm-caching)|[Publication Link](https://dl.acm.org/doi/10.14778/3583140.3583159)|
